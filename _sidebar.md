@@ -1,3 +1,5 @@
 - [**LLM**](LLM/README.md)
 - [**java**](java/README.md)
 - [**docsify学习**](docsify学习/README.md)
+- [**自我思考**](自我思考/README.md)
+  - [**持续改变**](自我思考/持续改变.md)
