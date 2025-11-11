@@ -19,9 +19,9 @@
 按照之前说的可以找到第一个cloud的类是`NacosPropertySourceLocator`，它是config里的包并且继承了`PropertySourceLocator`，他的执行来自`NacosConfigBootstrapConfiguration`中的bean注入
 
 
-![img_1.png](img_1.png)
+![img_1.png](图片/img_1.png)
 
-![img_2.png](img_2.png)
+![img_2.png](图片/img_2.png)
 
 
 
@@ -41,7 +41,7 @@
 
 
 
-![img.png](img.png)
+![img.png](图片/img.png)
 
 ## 参考
 - [nacos项目地址](https://github.com/alibaba/nacos)
